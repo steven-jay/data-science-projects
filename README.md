@@ -7,3 +7,4 @@ As a complete amateur, my work won't be very polished and my coding will have a 
 Current projects:
 
 - [Fuelcheck](https://github.com/steven-jay/data-science-projects/tree/master/Fuelcheck)
+- [Dataquest Missions] (https://github.com/steven-jay/data-science-projects/tree/master/Dataquest%20Missions)
