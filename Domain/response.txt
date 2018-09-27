@@ -1,0 +1,3475 @@
+
+
+
+<!DOCTYPE html>
+<!--[if lte IE 7]><html class="ie7 lte8 lte9" lang="en-AU"><![endif]-->
+<!--[if IE 8]><html class="ie8 lte8 lte9" lang="en-AU"><![endif]-->
+<!--[if IE 9]><html class="ie9 lte9" lang="en-AU"><![endif]-->
+<!--[if (gt IE 9) | (!IE)]><!-->
+<html lang="en-AU">
+<!--<![endif]-->
+<head>
+
+    <!--TODO: DELETE AFTER TESTing Temp Begin CSS assets -->
+    
+    <meta http-equiv="content-language" content="en-au" />
+    <meta http-equiv="imagetoolbar" content="false"/>
+    <link rel="dns-prefetch" href="//static.domain.com.au" />
+    <link rel="dns-prefetch" href="//images.domain.com.au" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="//b.domainstatic.com.au" />
+    <link rel="dns-prefetch" href="//mt0.googleapis.com" />
+    <link rel="dns-prefetch" href="//mt1.googleapis.com" />
+    <link rel="dns-prefetch" href="//assets.adobedtm.com" />
+    <link rel="dns-prefetch" href="//s3.amazonaws.com" />
+    <title>Recently Sold Properties in East Lindfield NSW 2070, Lindfield NSW 2070  | Page 2</title>
+        
+            <meta name="robots" content="NOINDEX, FOLLOW" />
+
+        <link rel="prev" href="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any"/>
+    
+
+    <!--Server: WIN-DCVRBVDIG51-->
+    <meta charset="utf-8" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0" />-->
+    <meta name="viewport" content="width=1020" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="apple-itunes-app" content="app-id=319908646, affiliate-data=270216&amp;ct=smartbanner_Homepage, app-argument=domain.com.au://open?AdId=2012349010">
+    
+
+    
+    
+    <meta http-equiv="imagetoolbar" content="false" />
+                    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"7cc93972a0","applicationID":"9355435","transactionName":"NAAHbEUHCkZSUEJaCg1KKG50STdQUkFVWyYMCxFKWAoIUEEcZFYWFgkRSw==","queueTime":0,"applicationTime":725,"ttGuid":"11C0B3C7268BE56","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQYGVlFWABAJV1RXAwIC"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+
+
+    <link rel="apple-touch-icon-precomposed" href="https://static.domain.com.au/domain/54.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.domain.com.au/domain/72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.domain.com.au/domain/114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.domain.com.au/domain/144.png" />
+    <link rel="shortcut icon" href="https://static.domain.com.au/domain/favicon.ico" />
+
+    <!-- Begin CSS assets -->
+<link type="text/css" href="/assets/css/637FFA06BBE06A03437A3AB4544D8DEFAB246BD29FBE6C4C8FD314F12F304289-m/mvc-skin-domain-residential/asset.axd" rel="stylesheet" />
+<link type="text/css" href="/assets/css/5F525FF69D7A3C325843F0788B1795C470FEFF17C0FD0720BECDFBE4C5FF964F-m/fe-co-suburb-profile-data/asset.axd" media="screen" rel="stylesheet" />
+<!-- End CSS assets -->
+
+
+    <script>window.dataBlobs = {"searchResults":{"DefaultLocation":null,"Mode":"Sold","Query":"postcode=2070&bedrooms=2&bathrooms=1&price=600000-750000&carspaces=1-any&page=2&mode=sold","ShortlistedAdIds":[],"TotalResults":37,"PageLength":20,"Page":2,"SuburbProfileHref":null,"Suburb":null,"SerializedSearchParameter":"{\"listingType\":3,\"minBedrooms\":2,\"maxBedrooms\":2,\"minBathrooms\":1,\"maxBathrooms\":1,\"minCarspaces\":1,\"minPrice\":600000,\"maxPrice\":750000,\"propertyTypes\":[],\"propertyFeatures\":[],\"locations\":[{\"id\":\"14972_2070\",\"suburbId\":14972,\"category\":0,\"state\":1,\"region\":\"Sydney Region\",\"area\":\"North Shore - Upper\",\"suburb\":\"East Lindfield\",\"postCode\":\"2070\"},{\"id\":\"25732_2070\",\"suburbId\":25732,\"category\":0,\"state\":1,\"region\":\"Sydney Region\",\"area\":\"North Shore - Upper\",\"suburb\":\"Lindfield\",\"postCode\":\"2070\"}],\"locationTerms\":\"2070\",\"keywords\":[],\"page\":2,\"pageSize\":20}","RangeFilters":{"Bedrooms":{"Min":2,"Max":2},"Bathrooms":{"Min":1,"Max":1},"Carspaces":{"Min":1,"Max":null}},"SearchParameters":{"ListingType":3,"MinBedrooms":2,"MaxBedrooms":2,"MinBathrooms":1,"MaxBathrooms":1,"MinCarspaces":1,"MaxCarspaces":null,"MinPrice":600000,"MaxPrice":750000,"MinLandArea":null,"MaxLandArea":null,"AdvertiserIds":null,"PropertyTypes":[],"PropertyFeatures":[],"Locations":[{"Id":"14972_2070","SuburbId":14972,"Category":0,"State":1,"Region":"Sydney Region","Area":"North Shore - Upper","Suburb":"East Lindfield","PostCode":"2070","IncludeSurroundingSuburbs":false,"Name":null,"Latitude":null,"Longitude":null},{"Id":"25732_2070","SuburbId":25732,"Category":0,"State":1,"Region":"Sydney Region","Area":"North Shore - Upper","Suburb":"Lindfield","PostCode":"2070","IncludeSurroundingSuburbs":false,"Name":null,"Latitude":null,"Longitude":null}],"LocationTerms":"2070","Keywords":[],"Sort":null,"DisplayMap":false,"Page":2,"PageSize":20,"GeoWindow":null,"HasAmbiguousTerm":false,"IncludeSurroundingSuburbs":false,"SchoolId":null}},"PropertyTypes":[{"Text":"House","Options":[{"Id":"Duplex","Text":"Duplex","Selected":false,"Value":"76","Count":0,"ToolTipText":"A single housing structure that is divided into two separate residences.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/duplex.jpg"},{"Id":"House","Text":"Free standing","Selected":false,"Value":"119","Count":1,"ToolTipText":"A house that is not attached to any other house, building or structure.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/house.jpg"},{"Id":"Semi-Detached","Text":"Semi-detached","Selected":false,"Value":"198","Count":0,"ToolTipText":"A house that is attached in some structural way to one or more dwellings, usually side-by-side.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/semi-detached.jpg"},{"Id":"Terrace","Text":"Terrace","Selected":false,"Value":"210","Count":0,"ToolTipText":"A row of adjoining, identical houses, each built to its side boundaries, usually of 19th-century design. Often includes two storeys and iron lace decoration.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/terrace.jpg"},{"Id":"Townhouse","Text":"Townhouse","Selected":false,"Value":"213","Count":2,"ToolTipText":"One of a group of dwellings sold under strata title, each sharing a common wall with another. Townhouses generally include ground floor access.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/town-house.jpg"},{"Id":"Villa","Text":"Villa","Selected":false,"Value":"220","Count":0,"ToolTipText":"A type of townhouse complex which contains, detached single story houses.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/villa.jpg"}],"ShowOptions":true},{"Text":"Land","Options":[{"Id":"New Land","Text":"New land","Selected":false,"Value":"133","Count":0,"ToolTipText":"A vacant land area which does not include buildings or any other structures.","ToolTipImageUrl":""},{"Id":"Vacant land","Text":"Vacant land","Selected":false,"Value":"218","Count":0,"ToolTipText":"A vacant land area which does not include buildings or any other structures.","ToolTipImageUrl":""}],"ShowOptions":false},{"Text":"Apartment","Options":[{"Id":"Apartment / Unit / Flat","Text":"Apartment / unit / flat","Selected":false,"Value":"17","Count":34,"ToolTipText":"A self-contained housing unit that occupies only part of a building.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/apartments.jpg"},{"Id":"Block of Units","Text":"Block of units","Selected":false,"Value":"31","Count":0,"ToolTipText":"An entire apartment building available for sale.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/block-of-units.jpg"},{"Id":"Penthouse","Text":"Penthouse","Selected":false,"Value":"172","Count":0,"ToolTipText":"A separate flat or maisonette on the top floor or floors of a building.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/penthouse.jpg"},{"Id":"Studio","Text":"Studio","Selected":false,"Value":"206","Count":0,"ToolTipText":"Any single room apartment with combined living and kitchen areas.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/studio.jpg"}],"ShowOptions":true},{"Text":"Rural","Options":[{"Id":"Acreage / Semi-Rural","Text":"Acreage / semi-rural","Selected":false,"Value":"4","Count":0,"ToolTipText":"A large allotment of land in a rural area.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/acreage.jpg"},{"Id":"Farm","Text":"Farm","Selected":false,"Value":"84","Count":0,"ToolTipText":"An area of land and its buildings, used for growing crops and rearing animals.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/farm.jpg"},{"Id":"Rural","Text":"Rural","Selected":false,"Value":"193","Count":0,"ToolTipText":"A geographic area that is located outside of cities and towns.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/rural.jpg"}],"ShowOptions":true},{"Text":"New Developments","Options":[{"Id":"Development Site","Text":"Development site","Selected":false,"Value":"73","Count":0,"ToolTipText":"A plot of land suitable for re-development into multi-home lots.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/development-site.jpg"},{"Id":"New House & Land","Text":"House and land package","Selected":false,"Value":"120","Count":0,"ToolTipText":"Newly developed areas including newly built homes available for purchase.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/new-house-and-land.jpg"},{"Id":"New Home Designs","Text":"New home designs","Selected":false,"Value":"113","Count":0,"ToolTipText":"A pre-designed home suitable for development on a block of land owned by vendors.","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/new-home-designs.jpg"},{"Id":"New Apartments / Off the Plan","Text":"Off the Plan / New apartments","Selected":false,"Value":"161","Count":0,"ToolTipText":"Properties that are advertised for sale before they have been built (it may be possible to inspect a demonstration property or show suite).","ToolTipImageUrl":"https://static.domain.com.au/content/web/residential/propertytypes/new-apartments.jpg"}],"ShowOptions":true}]}</script>
+    <!-- Begin Javascript assets -->
+<script src="/assets/js/C94DB24EFD800AF3DE357D88C43CDDF5829ABFFC4061D52532A5AD051C0FAC05-m/mvc-js-bundle/asset.axd" ></script>
+<script src="/assets/js/83CD99145DD9A76996BFC8F5E701795670185E36BF0B77FE07D61BC2ECA7AF8D-m/fd-dom-youtube/asset.axd" ></script>
+<script type="text/javascript">
+//<![CDATA[
+var isRetina = window.devicePixelRatio > 1 ? true : false; var sitename = 'domain';//]]>
+</script>
+<!-- End Javascript assets -->
+
+
+
+    
+    <script  type="text/javascript">
+var titanEnabled = true;
+var sitecatEnabled = true;
+var digitalData = {
+  "page": {
+    "pageInfo": {
+      "brand": "domain",
+      "generator": "DO",
+      "pageId": "search results - sold",
+      "pageName": "search results - sold",
+      "sysEnv": "desktop",
+      "search": {
+        "agencyIds": "334,26085,5933,3476,3796,27381,14496,17977,414",
+        "bedroomsFrom": "2",
+        "bedroomsTo": "2",
+        "bathroomsFrom": "1",
+        "bathroomsTo": "1",
+        "carSpaces": "1,2,3,4,5",
+        "postcode": "2070",
+        "priceFrom": "600000",
+        "priceTo": "750000",
+        "medianPrice": "635000",
+        "primaryPropertyType": "Any",
+        "secondaryPropertyType": "Any",
+        "state": "NSW",
+        "searchDepth": "2",
+        "searchLocationCat": "PostCode",
+        "searchRegion": "Sydney Region",
+        "searchResultCount": "37",
+        "resultsPages": "2",
+        "searchSuburb": "East Lindfield,Lindfield",
+        "searchTerm": "2070",
+        "sortBy": "Default",
+        "surroundingSuburbs": "Off",
+        "resultsRecords": "2010971727,2010949379,2010828679,2010739730,2011757971,2009137319,2012603679,2012585174,2012217720,2011775560,2011514851,2011494920,2011422267,2011370584,2011156770,2011153525,2011039612",
+        "geoType": "Suburb",
+        "suburbId": "14972,25732",
+        "mapSearch": "Off",
+        "searchTypeView": "ListView"
+      }
+    },
+    "category": {
+      "primaryCategory": "Sold",
+      "subCategory1": "Search Results",
+      "pageType": "Search Page"
+    }
+  },
+  "titan": {
+    "adSite": "DOMAIN.COM.AU",
+    "adZone": "sold/searchresults",
+    "adKeyValues": {
+      "cat": "sold",
+      "cat1": "searchresults",
+      "ctype": "index",
+      "locstate": "nsw",
+      "locarea": "north_shore_upper",
+      "locsuburb": [
+        "east_lindfield",
+        "lindfield"
+      ],
+      "locpostcode": [
+        "2070"
+      ],
+      "usertype": "sold",
+      "layout": "mvcpage",
+      "bedexact": [
+        "2"
+      ],
+      "bathexact": [
+        "1"
+      ],
+      "carexact": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "carrange": "1plus",
+      "pricerange": "600K_750K",
+      "medianPrice": "635K",
+      "e": "www.domain.com.au"
+    },
+    "adSlots": [
+      "adspot-468x60_728x90-pos-1",
+      "adspot-1x11-pos-1",
+      "adspot-160x600_300x600-pos-1",
+      "adspot-300x250-pos-1",
+      "adspot-300x25-pos-1",
+      "adspot-300x25-pos-2",
+      "adspot-580x100_580x200-pos-1",
+      "adspot-520x70_580x100_580x200-pos-2",
+      "adspot-520x70_580x100_580x200-pos-3"
+    ],
+    "contentWidth": "1100px"
+  },
+  "user": {
+    "profile": {
+      "profileInfo": {}
+    },
+    "membershipType": "visitor",
+    "membershipState": "Not_logged_in",
+    "ipAddress": "ZKyZ0I7TjuTK8RNmw2vP9ZOdu6kQleUnFDqLdHuzdUaC8rh1KCtWjgHIWCAZneBj"
+  },
+  "version": "1.0",
+  "events": []
+}
+var dataLayer = [digitalData];
+</script>
+
+    <style>
+        .search-navigator.search-updated .dropdown-wrap label span {
+            display: none;
+        }
+    </style>
+
+    <script src="//assets.adobedtm.com/7d5ea80d054b96730162d0905d59678c4d2bf30c/satelliteLib-056effb979f86654615e68101b9d6a79e53928b4.js">
+</script>
+
+
+</head>
+
+<body class="domain residential responsive-off search aside-left new-header">
+    
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3HVG4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window, document, 'script', 'dataLayer', 'GTM-M3HVG4');</script>
+<!-- End Google Tag Manager --><script type='text/javascript'>
+    // DoubleClick DART Natural Search Tracking Code
+    if (document.referrer) {
+        var ord = Math.random() * 1000000000000;
+        document.write('<SCRIPT language="JavaScript1.1" SRC="//ad.doubleclick.net/adj/N9419.197812NSO.CODESRV/B7955303.105223786;dcadv=4320653;sz=1x2;ord=' + ord + '?"><\/SCRIPT>');
+    }
+</script>    <script type="text/javascript">
+        // <![CDATA[
+        document.body.className += " scriptable";
+        document.domain = "domain.com.au";
+        // ]]>
+    </script>
+    
+<!--
+Time: 29/03/2017 5:22:56 PM
+MachineName: WIN-DCVRBVDIG51
+-->
+
+
+<a href="#content" class="skip-link">
+    Skip to content<span class="skip-link__separator"><span class="skip-link__sr-only">.</span></span>Call Support <span class="skip-link__highlight">1300 799 109</span>
+</a>
+
+    
+    <div id="page-outer-wrap" class="page-outer-wrap">
+        <div id="page-inner-wrap" class="page-inner-wrap">
+
+
+
+<header class="header" role="banner">                                <div class="inner-wrap cfix">
+                        <div class="ad">
+                            
+    		<div id="adspot-468x60_728x90-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-468x60_728x90-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-468x60_728x90-pos-1");
+				}
+			</script>
+		</div>
+
+
+
+                        </div>
+                        <div class="ad mobile">
+                            <img src="https://placehold.it/300x50" width="300" height="50">
+                        </div>
+                    </div>
+
+
+
+
+
+<div class="navigation-wrap">
+    <nav id="main-navigation" class="main-navigation new" role="navigation">
+        <div class="inner-wrap">
+            <a href="/" title="Domain homepage" class="logo">
+                <object data="https://static.domain.com.au/content/web/residential/logo/domain-logo-white-01.svg" type="image/svg+xml" class="logo-medium">Domain</object>
+            </a>
+            <ul class="main-nav-ul">
+                <li><a href="/home?mode=buy">Buy</a></li>
+                <li><a href="/home?mode=rent">Rent</a></li>
+                <li><a href="/new-homes">New Homes</a></li>
+                <li class="selected"><a href="/home?mode=sold">Sold</a></li>
+                
+                    <li><a href="https://www.commercialrealestate.com.au/">Commercial</a></li>
+
+                    <li><a href="http://www.domain.com.au/news/">News</a></li>
+                                    <li><a href="http://www.domain.com.au/advice/">Advice</a></li>
+                <li><a href="https://www.domain.com.au/real-estate-agents/">Agents</a></li>
+                <li class="dropdown">
+                    <a data-toggle="dropdown" href="javascript:;" class="domain-icon-ic_navigational_down_arrow">More</a>
+                    <ul class="dropdown-content menu">
+                        <li><a href="/home?mode=share">Share</a></li>
+                        <li><a href="https://www.domain.com.au/property-profile">Home Price Guide</a></li>
+                        <li><a href="https://www.domain.com.au/auction-results/">Auction Results</a></li>
+                            <li><a href="https://www.domain.com.au/suburb-profile">Suburb Profiles</a></li>
+                        <li><a href="/home-loans">Home Loans</a></li>
+                        <li class="menu-place-an-ad"><a href="https://advertisers.com.au/domain" rel="nofollow"><span>Place an Ad</span></a></li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="right">
+
+
+<ul class="list-icons">
+    <li class="dropdown">
+        <!-- UI NOTE: add class dropdown -->
+        <a href="javascript:;" title="Saved searches" data-toggle="dropdown" rel="nofollow">
+            <!-- UI NOTE: add data-toggle attribute to trigger the content -->
+            <span class="f-icon icon standalone icon-saved-search"></span>
+            <span class="hide-visually">Saved searches</span>
+        </a>
+
+        <div class="dropdown-content alt top-right-alt">
+            <!-- UI NOTE: add class alt when it's just text/tooltip -->
+            <div class="js-wrap">
+                <div class="title">
+                    <h5>Saved searches</h5>
+                </div>
+                <section>
+                    <img src="https://static.domain.com.au/content/web/residential/illustration/empty/saved-search.png" width="108" height="59" alt="Saved searches">
+                    <p>Keep your frequent searches<br> in one place.</p>
+                </section>
+                <a href="/authentications/signup?ReturnURL=%2fsold-listings%2f%3fpostcode%3d2070%26bedrooms%3d2%26bathrooms%3d1%26price%3d600000-750000%26carspaces%3d1-any%26page%3d2" class="btn sml signupLink">Create an account</a>
+            </div>
+        </div>
+    </li>
+    <li class="dropdown">
+        <!-- UI NOTE: add class dropdown -->
+        <a href="javascript:;" title="Shortlist" data-toggle="dropdown" rel="nofollow">
+            <!-- UI NOTE: add data-toggle attribute to trigger the content -->
+            <span class="f-icon icon standalone icon-shortlist"></span>
+            <span class="hide-visually">Shortlist</span>
+        </a>
+
+        <div class="dropdown-content alt top-right-alt">
+            <!-- UI NOTE: add class alt when it's just text/tooltip -->
+            <div class="js-wrap">
+                <div class="title">
+                    <h5>Shortlist</h5>
+                </div>
+                <section>
+                    <img src="https://static.domain.com.au/content/web/residential/illustration/empty/shortlist.png" width="109" height="59" alt="Shortlist">
+                    <p>Keep your favourite homes<br> in one place.</p>
+                </section>
+                <a href="/authentications/signup?ReturnURL=%2fsold-listings%2f%3fpostcode%3d2070%26bedrooms%3d2%26bathrooms%3d1%26price%3d600000-750000%26carspaces%3d1-any%26page%3d2" class="btn sml signupLink">Create an account</a>
+            </div>
+        </div>
+    </li>
+</ul>
+<ul class="sign-in">
+    <li><a id="loginAnchor" class="md-trigger" href="/authentications/login?ReturnURL=%2fsold-listings%2f%3fpostcode%3d2070%26bedrooms%3d2%26bathrooms%3d1%26price%3d600000-750000%26carspaces%3d1-any%26page%3d2" data-ga-category="Membership" data-ga-action="Login" data-ga-label="login_link_click" rel="nofollow">Sign in</a></li>
+    <li><a href="/authentications/signup?ReturnURL=%2fsold-listings%2f%3fpostcode%3d2070%26bedrooms%3d2%26bathrooms%3d1%26price%3d600000-750000%26carspaces%3d1-any%26page%3d2" data-ga-category="Membership" data-ga-action="SignUp" data-ga-label="signup_link_click" class="btn sml transparent signupLink" rel="nofollow">Sign up</a></li>
+</ul>
+            </div>
+        </div>
+    </nav>
+</div>
+
+            
+            
+    <div class="breadcrumb">
+    <div class="inner-wrap cfix">
+        <ul>
+                <li><a href="javascript:if(history.length>1){history.back();}else{location.href='/';}void(0);" class="hide-fully link-prev">Back</a></li>
+            
+            
+    <li class="crumb">
+            <a href="https://www.domain.com.au/"><span>Home</span></a>
+    </li>
+    <li class="crumb">
+            <a href="https://www.domain.com.au/sold-listings/nsw/"><span>NSW</span></a>
+    </li>
+    <li class="crumb">
+            <a href="https://www.domain.com.au/sold-listings/?area=north-shore-upper-nsw"><span>North Shore - Upper</span></a>
+    </li>
+
+        </ul>
+        
+    </div>
+</div>
+
+
+
+
+</header><div id="content"></div>            
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    //<![CDATA[
+    window.criteo_q = window.criteo_q || [];
+window.criteo_q.push(
+{ event: "setAccount", account: 4866 },
+{ event: "setSiteType", type: "d" },
+{ event: "viewList", item: ["2010971727","2010949379","2010828679"], keywords: "mode=sold&searchType=RecentlySold&state=NSW&regions=Sydney+Region&areas=North+Shore+-+Upper&sub=East+Lindfield%2cLindfield&bedrooms=2&bathrooms=1&carspaces=1%2c%3e5&from=600000&to=750000&searchterm=2070" }
+);
+
+    //]]>
+</script>
+
+
+<section class="content-wrap main-area" ng-app="listingsModule" >
+    		<div id="adspot-1x11-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-1x11-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-1x11-pos-1");
+				}
+			</script>
+		</div>
+
+
+    <div class="inner-wrap">
+        <aside>
+            <div>
+                
+<div id="searchrefine" class="card search-navigator" ng-class="{'search-updated': searchUpdated}">
+    <form method="POST" action="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any&amp;page=2" id="searchForm">
+        <!-- scrollbar wrap -->
+        <div class="scrollbar-wrap" iscroll-container>
+            <!-- this div is required by scrollbar plugin -->
+            <div>
+                
+
+
+<div id="searchRefinerControl" class="outer-wrap">
+    <div class="frm-main indented">
+        <input type="hidden" name="ListingType" value="Sold"/>
+        <label for="searchRefinerControlText">Location</label>
+        <div class="inner-wrap cfix">
+            <span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+            <input Name="LocationTerms" autocomplete="off" class="text SearchAutoComplete SearchAutoCompleteTokenizer" data-val="true" data-val-required="Please choose a location to search." id="searchRefinerControlText" name="SearchRefiner.LocationTerms" ng-change="updateLocationInput()" ng-init="searchParameters.SearchTerms=&quot;2070&quot;" ng-model="searchParameters.SearchTerms" placeholder="Search by region, suburb, postcode or address" type="text" value="2070" />
+            <span class="field-validation-valid" data-valmsg-for="SearchRefiner.LocationTerms" data-valmsg-replace="true"></span>
+        </div>
+    </div>
+    <div class="frm-main indented single-checkbox">
+
+            <div class="inner-wrap">
+                <input data-eventaction="Surrounding Suburbs" data-eventcategory="Search results" data-eventlabel="Sold" data-gatracking="true" icheckbox-value="searchParameters.IncludeSurroundingSuburbs" id="surrounding-suburbs" name="IncludeSurroundingSuburbs" single-icheckbox="False" type="checkbox" value="true" /><input name="IncludeSurroundingSuburbs" type="hidden" value="false" />
+                <label for="surrounding-suburbs">Surrounding suburbs</label>
+            </div>
+    </div>
+</div>
+                
+<div id="refineby-price" class="outer-wrap">
+    <div class="frm-main indented">
+        <label for="PriceFrom">
+            Price
+        </label>
+        <div class="inner-wrap price ui-front">
+            <span class="hide-visually">from</span>
+            <select id="MinPrice" name="MinPrice" ng-init="searchParameters.MinPrice=600000" ng-model="searchParameters.MinPrice"><option value="">Any</option>
+<option value="50000">$50,000</option>
+<option value="100000">$100,000</option>
+<option value="150000">$150,000</option>
+<option value="200000">$200,000</option>
+<option value="250000">$250,000</option>
+<option value="300000">$300,000</option>
+<option value="350000">$350,000</option>
+<option value="400000">$400,000</option>
+<option value="450000">$450,000</option>
+<option value="500000">$500,000</option>
+<option value="550000">$550,000</option>
+<option selected="selected" value="600000">$600,000</option>
+<option value="650000">$650,000</option>
+<option value="700000">$700,000</option>
+<option value="750000">$750,000</option>
+<option value="800000">$800,000</option>
+<option value="850000">$850,000</option>
+<option value="900000">$900,000</option>
+<option value="950000">$950,000</option>
+<option value="1000000">$1,000,000</option>
+<option value="1100000">$1,100,000</option>
+<option value="1200000">$1,200,000</option>
+<option value="1300000">$1,300,000</option>
+<option value="1400000">$1,400,000</option>
+<option value="1500000">$1,500,000</option>
+<option value="1600000">$1,600,000</option>
+<option value="1700000">$1,700,000</option>
+<option value="1800000">$1,800,000</option>
+<option value="1900000">$1,900,000</option>
+<option value="2000000">$2,000,000</option>
+<option value="2250000">$2,250,000</option>
+<option value="2500000">$2,500,000</option>
+<option value="2750000">$2,750,000</option>
+<option value="3000000">$3,000,000</option>
+<option value="3500000">$3,500,000</option>
+<option value="4000000">$4,000,000</option>
+<option value="5000000">$5,000,000</option>
+</select>
+            <div class="separator">-</div>
+            <span class="hide-visually">to</span>
+            <select id="MaxPrice" name="MaxPrice" ng-init="searchParameters.MaxPrice=750000" ng-model="searchParameters.MaxPrice"><option value="">Any</option>
+<option value="50000">$50,000</option>
+<option value="100000">$100,000</option>
+<option value="150000">$150,000</option>
+<option value="200000">$200,000</option>
+<option value="250000">$250,000</option>
+<option value="300000">$300,000</option>
+<option value="350000">$350,000</option>
+<option value="400000">$400,000</option>
+<option value="450000">$450,000</option>
+<option value="500000">$500,000</option>
+<option value="550000">$550,000</option>
+<option value="600000">$600,000</option>
+<option value="650000">$650,000</option>
+<option value="700000">$700,000</option>
+<option selected="selected" value="750000">$750,000</option>
+<option value="800000">$800,000</option>
+<option value="850000">$850,000</option>
+<option value="900000">$900,000</option>
+<option value="950000">$950,000</option>
+<option value="1000000">$1,000,000</option>
+<option value="1100000">$1,100,000</option>
+<option value="1200000">$1,200,000</option>
+<option value="1300000">$1,300,000</option>
+<option value="1400000">$1,400,000</option>
+<option value="1500000">$1,500,000</option>
+<option value="1600000">$1,600,000</option>
+<option value="1700000">$1,700,000</option>
+<option value="1800000">$1,800,000</option>
+<option value="1900000">$1,900,000</option>
+<option value="2000000">$2,000,000</option>
+<option value="2250000">$2,250,000</option>
+<option value="2500000">$2,500,000</option>
+<option value="2750000">$2,750,000</option>
+<option value="3000000">$3,000,000</option>
+<option value="3500000">$3,500,000</option>
+<option value="4000000">$4,000,000</option>
+<option value="5000000">$5,000,000</option>
+</select>
+        </div>
+    </div>
+</div>
+
+                <div id="js-collapse-top" class="outer-wrap collapse-outer" collapse-section>
+
+
+
+
+
+<div id="refineby-PropertyTypes" class="collapse-wrap cfix" checkboxes-field data-field-name="PropertyTypes" data-selected-value="searchParameters['PropertyTypes']" data-selection-summary="selectionSummary['PropertyTypes']" data-initial-value="Any">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-PropertyTypes" data-filter-field="PropertyTypes" data-only-active="1">
+    
+        <span>Property Types</span><span class="hide-visually">Currently selected: </span><span class="selected" ng-bind="selectionSummary['PropertyTypes']">Any</span>
+    
+    </a>
+    <div class="dropdown-wrap frm-main multi-inputs form-nested" role="listbox">
+        <div class="form-nested__form-group select-control">
+            <input id="group-option-all" type="checkbox" />
+            <label for="group-option-all">Select all</label>
+        </div>
+
+        <div class="form-nested__form-type">
+                <div class="form-nested__form-group half">
+                    <div class="form-nested__checkbox">
+                        <input id="group-option-House" type="checkbox" data-name="House">
+                        <label for="group-option-House">
+                            House                                 <span class="form-nested__number"> 3</span>
+                        </label>
+                    </div>
+                    <div class="form-nested__popover-toggle" data-type="House" data-toggle="tooltip" data-placement="top" data-html="true" data-original-title="Filter&amp;nbsp;House&lt;br /&gt;by&amp;nbsp;sub-type">
+                        <a href="#" title="">
+                            <span class="icon-triangle"></span>
+                            <span class="hide-visually">more</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="form-nested__form-group half">
+                    <div class="form-nested__checkbox">
+                        <input id="group-option-Land" type="checkbox" data-name="Land">
+                        <label for="group-option-Land">
+                            Land                         </label>
+                    </div>
+                    <div class="hide-visually" data-type="Land" data-toggle="tooltip" data-placement="top" data-html="true" data-original-title="Filter&amp;nbsp;Land&lt;br /&gt;by&amp;nbsp;sub-type">
+                        <a href="#" title="">
+                            <span class="icon-triangle"></span>
+                            <span class="hide-visually">more</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="form-nested__form-group half">
+                    <div class="form-nested__checkbox">
+                        <input id="group-option-Apartment" type="checkbox" data-name="Apartment">
+                        <label for="group-option-Apartment">
+                            Apartment                                 <span class="form-nested__number"> 34</span>
+                        </label>
+                    </div>
+                    <div class="form-nested__popover-toggle" data-type="Apartment" data-toggle="tooltip" data-placement="top" data-html="true" data-original-title="Filter&amp;nbsp;Apartment&lt;br /&gt;by&amp;nbsp;sub-type">
+                        <a href="#" title="">
+                            <span class="icon-triangle"></span>
+                            <span class="hide-visually">more</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="form-nested__form-group half">
+                    <div class="form-nested__checkbox">
+                        <input id="group-option-Rural" type="checkbox" data-name="Rural">
+                        <label for="group-option-Rural">
+                            Rural                         </label>
+                    </div>
+                    <div class="form-nested__popover-toggle" data-type="Rural" data-toggle="tooltip" data-placement="top" data-html="true" data-original-title="Filter&amp;nbsp;Rural&lt;br /&gt;by&amp;nbsp;sub-type">
+                        <a href="#" title="">
+                            <span class="icon-triangle"></span>
+                            <span class="hide-visually">more</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="form-nested__form-group">
+                    <div class="form-nested__checkbox">
+                        <input id="group-option-New_Developments" type="checkbox" data-name="New Developments">
+                        <label for="group-option-New_Developments">
+                            New Developments                         </label>
+                    </div>
+                    <div class="form-nested__popover-toggle" data-type="New Developments" data-toggle="tooltip" data-placement="top" data-html="true" data-original-title="Filter&amp;nbsp;New Developments&lt;br /&gt;by&amp;nbsp;sub-type">
+                        <a href="#" title="">
+                            <span class="icon-triangle"></span>
+                            <span class="hide-visually">more</span>
+                        </a>
+                    </div>
+                </div>
+
+            <div class="hide-visually propertytype-hidden-checkboxes">
+                <input type="checkbox" id="filter-PropertyTypes-any" value="any" checked="Checked" name="PropertyTypes">
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-76" name="PropertyTypes" value="76" type="checkbox">
+        <label for="filter-PropertyTypes-76">
+            Duplex
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-119" name="PropertyTypes" value="119" type="checkbox">
+        <label for="filter-PropertyTypes-119">
+            Free standing
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-198" name="PropertyTypes" value="198" type="checkbox">
+        <label for="filter-PropertyTypes-198">
+            Semi-detached
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-210" name="PropertyTypes" value="210" type="checkbox">
+        <label for="filter-PropertyTypes-210">
+            Terrace
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-213" name="PropertyTypes" value="213" type="checkbox">
+        <label for="filter-PropertyTypes-213">
+            Townhouse
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-220" name="PropertyTypes" value="220" type="checkbox">
+        <label for="filter-PropertyTypes-220">
+            Villa
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-133" name="PropertyTypes" value="133" type="checkbox">
+        <label for="filter-PropertyTypes-133">
+            New land
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-218" name="PropertyTypes" value="218" type="checkbox">
+        <label for="filter-PropertyTypes-218">
+            Vacant land
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-17" name="PropertyTypes" value="17" type="checkbox">
+        <label for="filter-PropertyTypes-17">
+            Apartment / unit / flat
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-31" name="PropertyTypes" value="31" type="checkbox">
+        <label for="filter-PropertyTypes-31">
+            Block of units
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-172" name="PropertyTypes" value="172" type="checkbox">
+        <label for="filter-PropertyTypes-172">
+            Penthouse
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-206" name="PropertyTypes" value="206" type="checkbox">
+        <label for="filter-PropertyTypes-206">
+            Studio
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-4" name="PropertyTypes" value="4" type="checkbox">
+        <label for="filter-PropertyTypes-4">
+            Acreage / semi-rural
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-84" name="PropertyTypes" value="84" type="checkbox">
+        <label for="filter-PropertyTypes-84">
+            Farm
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-193" name="PropertyTypes" value="193" type="checkbox">
+        <label for="filter-PropertyTypes-193">
+            Rural
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-73" name="PropertyTypes" value="73" type="checkbox">
+        <label for="filter-PropertyTypes-73">
+            Development site
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-120" name="PropertyTypes" value="120" type="checkbox">
+        <label for="filter-PropertyTypes-120">
+            House and land package
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-113" name="PropertyTypes" value="113" type="checkbox">
+        <label for="filter-PropertyTypes-113">
+            New home designs
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-PropertyTypes-161" name="PropertyTypes" value="161" type="checkbox">
+        <label for="filter-PropertyTypes-161">
+            Off the Plan / New apartments
+        </label>
+    </div>
+            </div>
+        </div>
+
+
+
+        <div class="form-nested__popover">
+            <div class="form-nested__popover-title">
+                <h5><span class="type"></span> sub-types</h5>
+            </div>
+            <section class="form-nested__popover-section">
+                <div class="half">
+                </div>
+                <div class="half information">
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+
+<div id="refineby-Bedrooms" class="collapse-wrap cfix" checkboxes-field data-field-name="Bedrooms" data-selected-value="searchParameters['Bedrooms']" data-selection-summary="selectionSummary['Bedrooms']" data-initial-value="2">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-Bedrooms" data-filter-field="Bedrooms" data-only-active="1">
+    
+        <span>Bedrooms</span><span class="hide-visually">Currently selected: </span><span class="selected" ng-bind="selectionSummary['Bedrooms']">2</span>
+    
+    </a>
+    <div id="scrollTo-Bedrooms" class="dropdown-wrap frm-main multi-inputs form-range" data-range-name="Bedrooms" role="listbox">
+        <div class="select-control">
+
+            <input type="checkbox" id="filterControl-Bedrooms-selectAll" name="Bedrooms" value="any" />
+            <label for="filterControl-Bedrooms-selectAll">Any Bedrooms</label>
+        </div>
+        <div class="form-range__form-group">
+            <div class="form-range__range"></div>
+            <ul>
+
+
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-studio filter-Bedrooms-0" data-checkbox="0">Studio</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-1 filter-Bedrooms-1" data-checkbox="1">1</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-2 filter-Bedrooms-2" data-checkbox="2">2</a>
+                        </div>
+                            <span class="form-range__label">(37)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-3 filter-Bedrooms-3" data-checkbox="3">3</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-4 filter-Bedrooms-4" data-checkbox="4">4</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-5+ filter-Bedrooms-5" data-checkbox="5">5+</a>
+                        </div>
+                    </li>
+            </ul>
+
+            <div class="hide-visually bedrooms-hidden-checkboxes">
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-0" name="Bedrooms" value="0" type="checkbox">
+        <label for="filter-Bedrooms-0">
+            Studio
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-1" name="Bedrooms" value="1" type="checkbox">
+        <label for="filter-Bedrooms-1">
+            1
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-2" name="Bedrooms" value="2" type="checkbox" checked="Checked">
+        <label for="filter-Bedrooms-2">
+            2
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-3" name="Bedrooms" value="3" type="checkbox">
+        <label for="filter-Bedrooms-3">
+            3
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-4" name="Bedrooms" value="4" type="checkbox">
+        <label for="filter-Bedrooms-4">
+            4
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bedrooms-5" name="Bedrooms" value="5" type="checkbox">
+        <label for="filter-Bedrooms-5">
+            5+
+        </label>
+    </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+<div id="refineby-Bathrooms" class="collapse-wrap cfix" checkboxes-field data-field-name="Bathrooms" data-selected-value="searchParameters['Bathrooms']" data-selection-summary="selectionSummary['Bathrooms']" data-initial-value="1">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-Bathrooms" data-filter-field="Bathrooms" data-only-active="1">
+    
+        <span>Bathrooms</span><span class="hide-visually">Currently selected: </span><span class="selected" ng-bind="selectionSummary['Bathrooms']">1</span>
+    
+    </a>
+    <div id="scrollTo-Bathrooms" class="dropdown-wrap frm-main multi-inputs form-range" data-range-name="Bathrooms" role="listbox">
+        <div class="select-control">
+
+            <input type="checkbox" id="filterControl-Bathrooms-selectAll" name="Bathrooms" value="any" />
+            <label for="filterControl-Bathrooms-selectAll">Any Bathrooms</label>
+        </div>
+        <div class="form-range__form-group">
+            <div class="form-range__range"></div>
+            <ul>
+
+
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-0 filter-Bathrooms-0" data-checkbox="0">0</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-1 filter-Bathrooms-1" data-checkbox="1">1</a>
+                        </div>
+                            <span class="form-range__label">(37)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-2 filter-Bathrooms-2" data-checkbox="2">2</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-3 filter-Bathrooms-3" data-checkbox="3">3</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-4 filter-Bathrooms-4" data-checkbox="4">4</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-5+ filter-Bathrooms-5" data-checkbox="5">5+</a>
+                        </div>
+                    </li>
+            </ul>
+
+            <div class="hide-visually bedrooms-hidden-checkboxes">
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-0" name="Bathrooms" value="0" type="checkbox">
+        <label for="filter-Bathrooms-0">
+            0
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-1" name="Bathrooms" value="1" type="checkbox" checked="Checked">
+        <label for="filter-Bathrooms-1">
+            1
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-2" name="Bathrooms" value="2" type="checkbox">
+        <label for="filter-Bathrooms-2">
+            2
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-3" name="Bathrooms" value="3" type="checkbox">
+        <label for="filter-Bathrooms-3">
+            3
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-4" name="Bathrooms" value="4" type="checkbox">
+        <label for="filter-Bathrooms-4">
+            4
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Bathrooms-5" name="Bathrooms" value="5" type="checkbox">
+        <label for="filter-Bathrooms-5">
+            5+
+        </label>
+    </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+<div id="refineby-Carspaces" class="collapse-wrap cfix" checkboxes-field data-field-name="Carspaces" data-selected-value="searchParameters['Carspaces']" data-selection-summary="selectionSummary['Carspaces']" data-initial-value="1, 2, 3, 4, 5+">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-Carspaces" data-filter-field="Carspaces" data-only-active="1">
+    
+        <span>Parking</span><span class="hide-visually">Currently selected: </span><span class="selected" ng-bind="selectionSummary['Carspaces']">1, 2, 3, 4, 5+</span>
+    
+    </a>
+    <div id="scrollTo-Carspaces" class="dropdown-wrap frm-main multi-inputs form-range" data-range-name="Carspaces" role="listbox">
+        <div class="select-control">
+
+            <input type="checkbox" id="filterControl-Carspaces-selectAll" name="Carspaces" value="any" />
+            <label for="filterControl-Carspaces-selectAll">Any Carspaces</label>
+        </div>
+        <div class="form-range__form-group">
+            <div class="form-range__range"></div>
+            <ul>
+
+
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-0 filter-Carspaces-0" data-checkbox="0">0</a>
+                        </div>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-1 filter-Carspaces-1" data-checkbox="1">1</a>
+                        </div>
+                            <span class="form-range__label">(34)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-2 filter-Carspaces-2" data-checkbox="2">2</a>
+                        </div>
+                            <span class="form-range__label">(3)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-3 filter-Carspaces-3" data-checkbox="3">3</a>
+                        </div>
+                            <span class="form-range__label">(0)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-4 filter-Carspaces-4" data-checkbox="4">4</a>
+                        </div>
+                            <span class="form-range__label">(0)</span>
+                    </li>
+                    <li class="form-range__li">
+                        <div class="form-range__type">
+                            <a href="#" class="form-range__link link-5+ filter-Carspaces-5" data-checkbox="5">5+</a>
+                        </div>
+                            <span class="form-range__label">(0)</span>
+                    </li>
+            </ul>
+
+            <div class="hide-visually bedrooms-hidden-checkboxes">
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-0" name="Carspaces" value="0" type="checkbox">
+        <label for="filter-Carspaces-0">
+            0
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-1" name="Carspaces" value="1" type="checkbox" checked="Checked">
+        <label for="filter-Carspaces-1">
+            1
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-2" name="Carspaces" value="2" type="checkbox" checked="Checked">
+        <label for="filter-Carspaces-2">
+            2
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-3" name="Carspaces" value="3" type="checkbox" checked="Checked">
+        <label for="filter-Carspaces-3">
+            3
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-4" name="Carspaces" value="4" type="checkbox" checked="Checked">
+        <label for="filter-Carspaces-4">
+            4
+        </label>
+    </div>
+    <div>
+        <input icheck-ticker class="check" id="filter-Carspaces-5" name="Carspaces" value="5" type="checkbox" checked="Checked">
+        <label for="filter-Carspaces-5">
+            5+
+        </label>
+    </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+                    <div class="collapse-wrap cfix ">
+                        <a href="javascript:;" class="collapse-trigger no-visited js-collapse-trigger" data-only-active="1" data-gatracking="true"data-eventcategory="Search results"data-eventaction="Filter"data-eventlabel="More options open">
+                            <span>More options</span>
+                        </a>
+                        <div id="scrollTo-Options" class="dropdown-wrap nested" role="listbox">
+
+
+<div id="refineby-PropertyFeatures" class="collapse-wrap cfix" checkboxes-field data-field-name="PropertyFeatures" data-selected-value="searchParameters['PropertyFeatures']" data-selection-summary="selectionSummary['PropertyFeatures']" data-initial-value="Any">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-PropertyFeatures" data-filter-field="PropertyFeatures" data-only-active="1">
+    
+        <span>Features</span><span class="hide-visually">Currently selected: </span><span class="selected" ng-bind="selectionSummary['PropertyFeatures']">Any</span>
+    
+    </a>
+    <div id="scrollTo-PropertyFeatures" class="dropdown-wrap frm-main multi-inputs" role="listbox">
+
+        <ul class="inner-wrap">
+            <li>
+                <input icheck-ticker type="checkbox" id="filter-PropertyFeatures-any" data-filter-field="PropertyFeatures"  value="any" checked="Checked">
+                <label for="filter-PropertyFeatures-any">All</label>
+            </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-PetsAllowed" name="PropertyFeatures" value="PetsAllowed" type="checkbox">
+        <label for="filter-PropertyFeatures-PetsAllowed">
+            Pets allowed
+                <span>(2)</span>
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-SwimmingPool" name="PropertyFeatures" value="SwimmingPool" type="checkbox">
+        <label for="filter-PropertyFeatures-SwimmingPool">
+            Swimming pool
+                <span>(3)</span>
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-AirConditioning" name="PropertyFeatures" value="AirConditioning" type="checkbox">
+        <label for="filter-PropertyFeatures-AirConditioning">
+            Air conditioning
+                <span>(11)</span>
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-BuiltInWardrobes" name="PropertyFeatures" value="BuiltInWardrobes" type="checkbox">
+        <label for="filter-PropertyFeatures-BuiltInWardrobes">
+            Built in wardrobes
+                <span>(29)</span>
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-Gas" name="PropertyFeatures" value="Gas" type="checkbox">
+        <label for="filter-PropertyFeatures-Gas">
+            Gas
+                <span>(8)</span>
+        </label>
+    </li>
+        </ul>
+        <ul class="inner-wrap">
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-GardenCourtyard" name="PropertyFeatures" value="GardenCourtyard" type="checkbox">
+        <label for="filter-PropertyFeatures-GardenCourtyard">
+            Garden / courtyard
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-BalconyDeck" name="PropertyFeatures" value="BalconyDeck" type="checkbox">
+        <label for="filter-PropertyFeatures-BalconyDeck">
+            Balcony / deck
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-InternalLaundry" name="PropertyFeatures" value="InternalLaundry" type="checkbox">
+        <label for="filter-PropertyFeatures-InternalLaundry">
+            Internal laundry
+                <span>(30)</span>
+        </label>
+    </li>
+    <li>
+        <input icheck-ticker class="check" id="filter-PropertyFeatures-Study" name="PropertyFeatures" value="Study" type="checkbox">
+        <label for="filter-PropertyFeatures-Study">
+            Study
+        </label>
+    </li>
+        </ul>
+    </div>
+</div>
+
+<div id="refineby-landsize" class="collapse-wrap cfix">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-landsize" data-only-active="1" data-filter-field="LandSize">
+    
+        <span>Land Size</span><span class="hide-visually">Currently selected: </span><span class="selected">Any</span>
+    
+    </a>
+    <div id="scrollTo-landsize" class="dropdown-wrap area cfix">
+        <div class="frm-main no-indent">
+            <div class="field-outer-wrap">
+                <label for="filterLandSizeMinText">From</label>
+                <div class="inner-wrap">
+                    <span class="icon">m<sup>2</sup></span>
+                    <input name="MinLandArea" type="text" value="any" id="filterLandSizeMinText" ng-model="searchParameters.AreaFrom" ng-init="searchParameters.AreaFrom=''">
+                </div>
+            </div>
+            <div class="separator">-</div>
+            <div class="field-outer-wrap">
+                <label for="filterLandSizeMaxText">To</label>
+                <div class="inner-wrap">
+                    <span class="icon">m<sup>2</sup></span>
+                    <input name="MaxLandArea" type="text" value="any" id="filterLandSizeMaxText" ng-model="searchParameters.AreaTo" ng-init="searchParameters.AreaTo=''">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="refineby-keyword" class="collapse-wrap">
+    <a href="javascript:void(0);" class="collapse-trigger no-visited js-collapse-trigger" data-scroll-target="scrollTo-keywords" data-filter-field="Keywords" data-only-active="1">
+    
+        <span>Keywords</span><span class="hide-visually">Currently selected: </span><span class="selected"></span>
+    
+    </a>
+    <div id="scrollTo-keywords" class="dropdown-wrap">
+        <div class="frm-main no-indent">
+            <label for="filterKeywordText">eg. waterfront, views, street name</label>
+            <div class="inner-wrap full">
+                <input name="Keywords" type="text" id="filterKeywordText" value="" ng-model="searchParameters.Keywords" ng-init="searchParameters.Keywords=''">
+            </div>
+        </div>
+    </div>
+</div>                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- //scrollbar wrap -->
+        <div id="js-btn-wrap" class="outer-wrap btn-wrap frm-main" ng-hide="false">
+            <input type="submit" name="" value="Update search" id="searchRefinerControlBtnSearch" class="btn"
+                   ng-click="searchFilterUpdate($event)"
+                   data-gatracking="true"data-eventcategory="Search results"data-eventaction="Update search"data-eventlabel="Sold">
+            <a class="btn lowlight alt sml saveSearchBtn" href="/protected/saved-searches" rel="nofollow" saved-search
+               data-add-url="/protected/saved-searches/create?querystring=mode%3dsold%26searchtype%3drecentlysold%26bedrooms%3d2%26bathrooms%3d1%26carspaces%3d1%252c%253e5%26from%3d600000%26to%3d750000%26searchterm%3d2070%26displmap%3d0%26state%3dNSW%26regions%3dSydney%2bRegion%26areas%3dNorth%2bShore%2b-%2bUpper%26sub%3dEast%2bLindfield%252cLindfield"
+               data-is-authenticated="false"
+               data-gatracking="true" data-eventcategory="Save Search & Alerts" data-eventaction="Click Save Search & Alerts" data-eventlabel="">
+                Save search 
+            </a>
+        </div>
+        <div id="js-btn-wrap-sticky" class="content-wrap btn-wrap-sticky" ng-hide="false">
+            <div class="inner-wrap">
+                <div class="col-5 btn-wrap">
+                    <input type="submit" name="" value="Update search" id="searchRefinerControlBtnSearchSticky" class="btn"
+                           ng-click="searchFilterUpdate($event)"
+                           data-gatracking="true"data-eventcategory="Search results"data-eventaction="Update search"data-eventlabel="Sold">
+                    <a class="btn lowlight alt sml saveSearchBtn" href="/protected/saved-searches" rel="nofollow" saved-search
+                       data-add-url="/protected/saved-searches/create?querystring=mode%3dsold%26searchtype%3drecentlysold%26bedrooms%3d2%26bathrooms%3d1%26carspaces%3d1%252c%253e5%26from%3d600000%26to%3d750000%26searchterm%3d2070%26displmap%3d0%26state%3dNSW%26regions%3dSydney%2bRegion%26areas%3dNorth%2bShore%2b-%2bUpper%26sub%3dEast%2bLindfield%252cLindfield"
+                       data-is-authenticated="false"
+                       data-gatracking="true" data-eventcategory="Save Search & Alerts" data-eventaction="Click Save Search & Alerts" data-eventlabel="">
+                        Save search 
+                    </a>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="SortKey" id="SortKey" ng-model="searchParameters.SortKey" />
+    </form>
+</div>
+
+            </div>
+
+            <div class="aside-mask">
+
+                
+
+<div class="card suburb-tv" style="display:block">
+	<h2 class="h4 heading">
+		Suburb TV
+        <a title="View Savills Cordeau Marshall Gordon listings and profile"
+               href="/real-estate-agencies/savillscm-gordon"
+               target="_blank">
+                <span>Hosted by</span>
+                <img src="https://images.domain.com.au/img/Agencys/414/searchlogo_414.png?date=2015-08-14-13-47-33" alt="View Savills Cordeau Marshall Gordon listings and profile">
+        </a>
+	</h2>
+	<div class="media-wrap">
+            <div onclick="playeryt=document.getElementById('FlowplayerID'); playeryt.style.display='block'; this.style.display='none';player.playVideo()">
+                <span class="hide-visually">Play video</span>
+                <img src="https://img.youtube.com/vi/DfH1wkySkBA/0.jpg" alt="Suburb TV - Hosted by Savills Cordeau Marshall Gordon">
+                <div class="video-overlay alt">
+                    <span class="f-icon">
+                        <span class="icon domain-icon-ic_play"></span>
+                    </span>
+                </div>
+            </div>
+        <a href="https://www.youtube.com/embed/DfH1wkySkBA" id="FlowplayerID" style="display:none" title="Play video">
+                <span class="hide-visually">Play video</span>
+                <img src="https://img.youtube.com/vi/DfH1wkySkBA/0.jpg" alt="Suburb TV - Hosted by Savills Cordeau Marshall Gordon">
+                <div class="video-overlay alt">
+                    <span class="f-icon">
+                        <span class="icon domain-icon-ic_play"></span>
+                    </span>
+                </div>
+        </a>
+        <script>
+            //<![CDATA[
+            var youtubeVideoId = 'DfH1wkySkBA';
+            // Load video when it is on https, otherwise make target="_blank" so that the video is loaded in new tab/window
+            var loadVideo = true;
+            if (youtubeVideoId != '') {
+                loadSuburbTvPlayer = true;
+                //check if YouTube Api already loaded
+                if (typeof (YT) == 'undefined' || typeof (YT.Player) == 'undefined') {
+                    YoutubeLoadIframe();
+                }
+                else {
+                    loadSuburbTvPlayerYT();
+                }
+            }
+            else if (loadVideo === true) {
+                var autoplay = true;
+                var autobuffer = false;
+                FlowPlayercall('FlowplayerID', 'Live Mode', '#@a88e92c0bb52808f85d', autoplay, autobuffer,'414','/ore/public/rest/restclient.ashx?restmethod=statistictrackingservice.svc%2Ftrackagencyvideojson%2Fsuburbtvvideoview');
+            }
+            else if (loadVideo === false) {
+                $j("#FlowplayerID")
+                    .attr('target', '_blank')
+                    .attr('href', 'https://www.youtube.com/embed/DfH1wkySkBA');
+            }
+            //]]>
+        </script>
+	</div>
+</div>
+
+<script type='text/javascript'>
+    /*
+    * Display a link that slides in from the right
+    *
+    * id		id of the DOM element
+    * url		link href value
+    * text		link text
+    */
+    function displayLink(id, url, text) {
+        // Create link
+        var link = document.createElement('a');
+        link.setAttribute('href', url);
+        link.innerHTML = text;
+        // Create link bar
+        var linkBar = document.createElement('div');
+        linkBar.setAttribute('id', 'flowPlayerSlideBar');
+        linkBar.appendChild(link);
+        // Create container
+        var linkContainer = document.createElement('div');
+        linkContainer.setAttribute('id', 'flowPlayerSlideBarContainer');
+        linkContainer.appendChild(linkBar);
+        var playerContainer = document.getElementById(id);
+        if (playerContainer) {
+            playerContainer.appendChild(linkContainer);
+            increateRight('flowPlayerSlideBar', 0);
+            return linkContainer;
+        } else
+            return false;
+    }
+
+    /*
+    * Removes an element from the DOM
+    *
+    * id		id of the DOM element
+    */
+    function removeLink(id) {
+        var playerContainer;
+        var linkContainer = document.getElementById(id);
+        // Check browser compatibility
+        isIE = (navigator.appVersion.indexOf('MSIE') != -1) ? true : false;
+        if (isIE) {
+            playerContainer = linkContainer.parentNode;
+        } else {
+            playerContainer = linkContainer.getParent();
+        }
+        // Remove the link Container
+        if (linkContainer && playerContainer) {
+            playerContainer.removeChild(linkContainer);
+            return true;
+        } else
+            return false;
+    }
+
+    /*
+    * Increate the 'right' CSS position
+    *
+    * id		id of DOM element
+    * max		max pixels to increase right position to
+    */
+    function increateRight(id, max) {
+        // Get element
+        var linkBar = document.getElementById(id);
+        if (linkBar) {
+            // Get the CSS 'right' position
+            var right = 0;
+            if (linkBar.currentStyle)
+                right = parseInt(linkBar.currentStyle['right']);
+            else if (window.getComputedStyle)
+                right = parseInt(document.defaultView.getComputedStyle(linkBar, null).getPropertyValue('right'));
+            // Increate position by 1
+            if (right < max) {
+                right++;
+                setTimeout(function() {
+                    linkBar.style.right = right + 'px';
+                    increateRight(id, max);
+                }, 10);
+            }
+            return true;
+        } else
+            return false;
+    }
+
+    function loadSuburbTvPlayerYT() {
+        player = new YT.Player('FlowplayerID', {
+            videoId: 'DfH1wkySkBA',
+            playerVars: {
+                'autoplay': '0',
+                'origin': '//www.domain.com.au',
+                'modestbranding': 1,
+                'fs': 1,
+                'rel': 0,
+                'autohide': 0
+            },
+            events: {
+                'onStateChange': function(event) {
+                    var done = event.target.alreadyPlayed || false;
+
+                    if (event.data == YT.PlayerState.PLAYING && !done) {
+                        event.target.alreadyPlayed = true;
+                        // your tracking code goes here
+                        LogVideoView('414', '/ore/public/rest/restclient.ashx?restmethod=statistictrackingservice.svc%2Ftrackagencyvideojson%2Fsuburbtvvideoview');
+                    }
+                }
+            }
+        });        
+    }
+
+    function checkAndLoadSuburbTvPlayerYT() {
+        if (typeof loadSuburbTvPlayer != 'undefined' && loadSuburbTvPlayer) {
+            loadSuburbTvPlayerYT();
+        }
+    }
+    
+    function registerSuburbTvYouTubePlayerLoader() {
+        onYouTubeIframeAPIReadyCustomisations.push(checkAndLoadSuburbTvPlayerYT);
+    }
+
+    registerSuburbTvYouTubePlayerLoader();
+
+</script>
+
+                <div class="card ad">
+                    <iframe id="ifGallery" src="/ore/Public/agentcarousel/agentcarousel.aspx?usertype=Sold&amp;locations=14972,25732"
+        allowtransparency="true" leftmargin="0" topmargin="0"
+        marginwidth="0" marginheight="0" scrolling="no" style="width:300px; min-height:113px;" title="Agent carousel"></iframe>
+
+                </div>
+                <div class="card ad">
+                    		<div id="adspot-300x250-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-300x250-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-300x250-pos-1");
+				}
+			</script>
+		</div>
+
+
+                </div>
+                <div class="card ad">
+                    		<div id="adspot-160x600_300x600-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-160x600_300x600-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-160x600_300x600-pos-1");
+				}
+			</script>
+		</div>
+
+
+                </div>
+
+            </div>
+        </aside>
+
+        <!-- Main content -->
+        <div id="main" class="main" role="main" unveil>
+
+            
+
+<div class="searchResultHeader">
+    <h1 class="truncate-single">
+        <span counter-span count="&lt;strong&gt;37 Properties&lt;/strong&gt; sold in 2 suburbs"> <strong>37 Properties</strong> sold in 2 suburbs </span>
+    </h1>
+</div>
+
+<!-- search-toolbar -->
+<div class="search-toolbar">
+    <div class="toolbar-wrap cfix">
+        <ul class="left">
+                <li class="view-switch" map-list-view-switch>
+                    <a href="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any&amp;page=2" class="selected disabled" listing-url title="List view">
+                        <span class="icon domain-icon-ic_list"></span>
+                        <span class="copy">List<span class="hide-visually"> view</span></span>
+                    </a>
+                    <!-- UI NOTE: toggle classes 'selected disabled' -->
+                    <a href="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any&amp;displaymap=1&amp;page=2" class="btn-map-view" id="searchByMapView" rel="nofollow" map-url data-gatracking="true"data-eventcategory="Search results"data-eventaction="Map icon click"data-eventlabel="Sold">
+                        <span class="icon no-margin domain-icon-ic_pin_sml"></span>
+                        <span class="copy">Map<span class="hide-visually"> view</span></span>
+                    </a>
+                </li>
+        </ul>
+        <ul class="right">
+            <li class="sortby-filter ui-front">
+                <label for="sortByList" class="hide-visually">Sort listings by</label>
+                <select data-UI-Menu-Position="top-right" id="sortByList" name="SortKey"><option selected="selected" value="Default-Descending">Featured</option>
+<option value="SoldDate-Descending">Sale Date</option>
+<option value="Price-Ascending">Lowest price</option>
+<option value="Price-Descending">Highest price</option>
+<option value="Suburb-Ascending">Suburb</option>
+</select>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="SaveSearchModalPopup" id="savedSearchLightBox">
+    </div>
+</div>
+<!-- //search-toolbar -->
+
+
+            <div class="card plain ad">
+                		<div id="adspot-300x25-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-300x25-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-300x25-pos-1");
+				}
+			</script>
+		</div>
+
+
+            </div>
+
+            <div remove-on="listingContent:updated">
+                
+
+<ul class="listings cfix">
+    
+    
+</ul>
+
+            </div>
+
+            <div listing-content>
+                
+<span id="spPushAddShortListEvent" data-analytics-event="shortlistAdd" style="display:none"></span>
+
+<ul id="searchresults" class="listings cfix">
+
+
+
+<li class="strap new-listing" property-hover data-listing-id="2010971727">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 14 Feb 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$635,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/10-393-pacific-highway-lindfield-nsw-2070-2010971727" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="10/393 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">10/393 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.77312" />
+    <meta itemprop="longitude" content="151.1651" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #F9AE00">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/UJAQDABVj_qz1fnnDjrrwa_LHzQ=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/334/logo_334.png?date=131097622040250502" alt="Logo for Raine &amp; Horne Chatswood/Willoughby">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/10-393-pacific-highway-lindfield-nsw-2070-2010971727" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/6hnKBK9koZZ68MgerBUAW-LQyvA=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1000-h667-2010971727_1_pi_150321_114427' alt='Picture of 10/393 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/zb9BOnU6o_ldktlpsfUCblEnYU4=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1000-h667-2010971727_2_pi_150321_114427' alt='Picture of 10/393 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2010949379">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 10 Feb 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$625,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/10-231-pacific-highway-lindfield-nsw-2070-2010949379" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="10/231 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">10/231 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7791824" />
+    <meta itemprop="longitude" content="151.169418" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            2            <span class="listing-result__sr-only">
+                parkings
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #386351">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/Dy04VL1TktSdUn8UrKSfZ3FGeZc=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/26085/logo_26085.GIF?date=2015-06-26-12-00-16" alt="Logo for Belle Property Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/10-231-pacific-highway-lindfield-nsw-2070-2010949379" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/QwW61bcpyGD-8aMQKZNmUxneUW0=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2010949379_1_pi_150321_034650' alt='Picture of 10/231 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/MW0bQX_OtYWoyzYtMIlTjK5LDPI=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2010949379_2_pi_150321_034650' alt='Picture of 10/231 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li><li>
+    		<div id="adspot-580x100_580x200-pos-1">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-580x100_580x200-pos-1");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-580x100_580x200-pos-1");
+				}
+			</script>
+		</div>
+
+
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2010828679">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 26 Nov 2013</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$600,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/12-393-pacific-highway-lindfield-nsw-2070-2010828679" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="12/393 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">12/393 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.77312" />
+    <meta itemprop="longitude" content="151.1651" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #386351">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/Dy04VL1TktSdUn8UrKSfZ3FGeZc=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/26085/logo_26085.GIF?date=2015-06-26-12-00-16" alt="Logo for Belle Property Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/12-393-pacific-highway-lindfield-nsw-2070-2010828679" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/WZ8tjWNSeZghZaZ9c4k9qZk2cSU=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2010828679_1_pi_150319_120514' alt='Picture of 12/393 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/ng99onpGGonUX86eosYeUHcfxBs=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2010828679_2_pi_150319_120514' alt='Picture of 12/393 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2010739730">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 11 Oct 2013</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$615,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/24-197-pacific-highway-lindfield-nsw-2070-2010739730" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="24/197 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">24/197 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.78217" />
+    <meta itemprop="longitude" content="151.1717" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #004985">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/FsA0e3oqKALq6qMV_JJIh6STlek=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/5933/logo_5933.GIF?date=2015-03-10-17-12-29" alt="Logo for Marriott Lane Real Estate">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/24-197-pacific-highway-lindfield-nsw-2070-2010739730" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/faXblxTPzViMUXp65gS7d2I4RMM=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2010739730_1_pi_150318_011451' alt='Picture of 24/197 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/8emF5dEWN_-1vYnWFmZTOoq1lcA=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2010739730_2_pi_150318_011451' alt='Picture of 24/197 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011757971">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold at auction 09 Dec 2011</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$720,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/11-276-pacific-highway-lindfield-nsw-2070-2011757971" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="11/276 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">11/276 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.77756" />
+    <meta itemprop="longitude" content="151.168716" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #130c0d">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/ZuA4X0fsfX4tgo5wkJOA0rp4c0I=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/3476/logo_3476.gif" alt="Logo for LJ Hooker Roseville">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/11-276-pacific-highway-lindfield-nsw-2070-2011757971" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/w6YnlGJyvZvHDxJku1-pRnuQhPM=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2011757971_1_pi_150227_110648' alt='Picture of 11/276 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/wCOXCJHLtPWGsH5I6zWLTm3_AnU=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2011757971_2_pi_150227_110648' alt='Picture of 11/276 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2009137319">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 19 Aug 2011</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">$620,000</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/4-1-havilah-road-lindfield-nsw-2070-2009137319" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="4/1 Havilah Road, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">4/1 Havilah Road</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.77337" />
+    <meta itemprop="longitude" content="151.169052" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #cd1432">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/DZmLjMfR8ipTOT_unC_s9ywihpw=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/3796/logo_3796.GIF" alt="Logo for Richardson &amp; Wrench Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/4-1-havilah-road-lindfield-nsw-2070-2009137319" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/plWQP5JqUnPW3TyMLp1jfFJ56qA=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h533-2009137319_1_pi_150304_043416' alt='Picture of 4/1 Havilah Road, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/lghVlzB7btwBWW0EZQSu-tYp4CU=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h533-2009137319_2_pi_150304_043416' alt='Picture of 4/1 Havilah Road, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2012603679">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 04 Mar 2016</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/5-1-gladstone-parade-lindfield-nsw-2070-2012603679" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="5/1 Gladstone Parade, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">5/1 Gladstone Parade</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7790871" />
+    <meta itemprop="longitude" content="151.168686" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #2C343C">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/n_G_27Chk1kzPG_M4yDXdl9pAso=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/27381/logo_27381.GIF?date=2016-02-04-18-22-03" alt="Logo for Stone Real Estate Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/5-1-gladstone-parade-lindfield-nsw-2070-2012603679" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/uQ1YRgyxO2WJTP-UOkZiQj1gAd8=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1280-h853-2012603679_1_pi_160217_065317' alt='Picture of 5/1 Gladstone Parade, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/mWSI_JS5AzbjPTTeUojutSmWRZk=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1280-h853-2012603679_2_pi_160217_065317' alt='Picture of 5/1 Gladstone Parade, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2012585174">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold prior to auction 02 Mar 2016</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/14-470-pacific-highway-lindfield-nsw-2070-2012585174" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="14/470 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">14/470 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.772522" />
+    <meta itemprop="longitude" content="151.162033" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #2C343C">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/n_G_27Chk1kzPG_M4yDXdl9pAso=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/27381/logo_27381.GIF?date=2016-02-04-18-22-03" alt="Logo for Stone Real Estate Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/14-470-pacific-highway-lindfield-nsw-2070-2012585174" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/TeC5u_Mj8oGcT8-RwY04wWIPydQ=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1280-h853-2012585174_1_pi_160210_023930' alt='Picture of 14/470 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/843NDoICLRtPpBnHH7GxvaHZVwo=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1280-h853-2012585174_2_pi_160210_023930' alt='Picture of 14/470 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li><li>
+    		<div id="adspot-520x70_580x100_580x200-pos-2">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-520x70_580x100_580x200-pos-2");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-520x70_580x100_580x200-pos-2");
+				}
+			</script>
+		</div>
+
+
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2012217720">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 24 Sep 2015</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/9-187-pacific-highway-lindfield-nsw-2070-2012217720" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="9/187 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">9/187 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7827072" />
+    <meta itemprop="longitude" content="151.172241" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #cd1432">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/DZmLjMfR8ipTOT_unC_s9ywihpw=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/3796/logo_3796.GIF" alt="Logo for Richardson &amp; Wrench Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/9-187-pacific-highway-lindfield-nsw-2070-2012217720" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/J9IKLhHZASerVL0L54vVg6pnEhM=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1600-h1200-2012217720_1_pi_150913_111633' alt='Picture of 9/187 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/biW8KbZo0lWmhOlQzaw4wo6qKfU=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1600-h1200-2012217720_2_pi_150913_111633' alt='Picture of 9/187 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011775560">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 22 Apr 2015</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/10-191-pacific-highway-lindfield-nsw-2070-2011775560" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="10/191 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">10/191 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7824554" />
+    <meta itemprop="longitude" content="151.17189" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #386351">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/Dy04VL1TktSdUn8UrKSfZ3FGeZc=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/26085/logo_26085.GIF?date=2015-06-26-12-00-16" alt="Logo for Belle Property Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/10-191-pacific-highway-lindfield-nsw-2070-2011775560" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/JgHS_gy-5mb4zZvOFKoWvc89FCw=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011775560_1_pi_150216_030829' alt='Picture of 10/191 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/mJSwD33bTr5cru_7SUrGfA78a5Q=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011775560_2_pi_150216_030829' alt='Picture of 10/191 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011514851">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 07 Nov 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/4-239-pacific-highway-lindfield-nsw-2070-2011514851" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="4/239 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">4/239 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7784" />
+    <meta itemprop="longitude" content="151.169632" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #cd1432">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/DZmLjMfR8ipTOT_unC_s9ywihpw=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/3796/logo_3796.GIF" alt="Logo for Richardson &amp; Wrench Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/4-239-pacific-highway-lindfield-nsw-2070-2011514851" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/zzjq-5l4_4Sd4C_BKaMORGuNNEQ=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011514851_1_pi_150528_054609' alt='Picture of 4/239 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/9OUpeHSV8BlgQ4yRYHSrN1V0LlI=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011514851_2_pi_150528_054609' alt='Picture of 4/239 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li><li>
+    		<div id="adspot-520x70_580x100_580x200-pos-3">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-520x70_580x100_580x200-pos-3");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-520x70_580x100_580x200-pos-3");
+				}
+			</script>
+		</div>
+
+
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011494920">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 30 Oct 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/2-239-pacific-highway-lindfield-nsw-2070-2011494920" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="2/239 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">2/239 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7784" />
+    <meta itemprop="longitude" content="151.169632" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #386351">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/Dy04VL1TktSdUn8UrKSfZ3FGeZc=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/26085/logo_26085.GIF?date=2015-06-26-12-00-16" alt="Logo for Belle Property Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/2-239-pacific-highway-lindfield-nsw-2070-2011494920" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/sFiyXLNvnAeGdq8dW-Bfa-xU3Xk=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011494920_1_pi_150528_011607' alt='Picture of 2/239 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/1hB_J8XTscQH4Oa5fYfdUEOQTe0=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011494920_2_pi_150528_013721' alt='Picture of 2/239 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011422267">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 11 Oct 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/14-187-pacific-highway-lindfield-nsw-2070-2011422267" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="14/187 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">14/187 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7823257" />
+    <meta itemprop="longitude" content="151.17244" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #1a181d">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/yrTEazGcVoJR9YrieFjFa4trdCg=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/14496/logo_14496.GIF" alt="Logo for McDonagh Blake">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/14-187-pacific-highway-lindfield-nsw-2070-2011422267" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/g_kl3e96blNS_sQjBVCCcUyEvgM=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011422267_1_pi_150527_094738' alt='Picture of 14/187 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/dE_WgELkTBSUm2w7PQhl5EUqhIA=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011422267_2_pi_150527_094737' alt='Picture of 14/187 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011370584">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 02 Sep 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/6-239-pacific-highway-lindfield-nsw-2070-2011370584" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="6/239 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">6/239 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7784" />
+    <meta itemprop="longitude" content="151.169632" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #cd1432">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/DZmLjMfR8ipTOT_unC_s9ywihpw=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/3796/logo_3796.GIF" alt="Logo for Richardson &amp; Wrench Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/6-239-pacific-highway-lindfield-nsw-2070-2011370584" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/nZ28qN87YMeXm7fXueMKwTqDL1A=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011370584_1_pi_150329_103927' alt='Picture of 6/239 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/Nl3Sjbi8ki0WkB_PrYDl5dp5vDY=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h534-2011370584_2_pi_150329_103924' alt='Picture of 6/239 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011156770">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold prior to auction 15 May 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/4-235-pacific-highway-lindfield-nsw-2070-2011156770" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="4/235 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">4/235 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7789078" />
+    <meta itemprop="longitude" content="151.169388" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #002A46">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/Xue0ccKpdu-Jj84LfcFLwfZGcU0=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/17977/logo_17977.GIF" alt="Logo for _Archived_Chadwick Real Estate Lindfield">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/4-235-pacific-highway-lindfield-nsw-2070-2011156770" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/EIAwffaYcs6UgqpEQCVWJtynVRI=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h531-2011156770_1_pi_150324_052705' alt='Picture of 4/235 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/EJeUBHVkkAEI48rtjQUVhwKudww=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h531-2011156770_2_pi_150324_052705' alt='Picture of 4/235 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011153525">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold by private treaty 12 May 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/1-444-pacific-highway-lindfield-nsw-2070-2011153525" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="1/444 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">1/444 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.773365" />
+    <meta itemprop="longitude" content="151.164459" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #F9AE00">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/UJAQDABVj_qz1fnnDjrrwa_LHzQ=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/334/logo_334.png?date=131097622040250502" alt="Logo for Raine &amp; Horne Chatswood/Willoughby">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/1-444-pacific-highway-lindfield-nsw-2070-2011153525" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/xmJCbVsPIZoAQkgFvkep6Xu9bWo=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1000-h667-2011153525_1_pi_150324_045630' alt='Picture of 1/444 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/9oNQf6N447TxiVvppy_mC-c5C80=/144x106/filters:format(jpeg):quality(90):no_upscale()/w1000-h667-2011153525_2_pi_150324_045630' alt='Picture of 1/444 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li>
+
+<li class="strap new-listing" property-hover data-listing-id="2011039612">
+    <div class="listing-result is-standard" >
+        <div class='listing-result__listing'>
+            <div class="listing-result__left">
+
+    <div class="listing-result__tags">
+            <span class="listing-result__tag is-sold">Sold 24 Mar 2014</span>
+    </div>
+
+
+
+
+                <p class="listing-result__price">Price Withheld</p>
+
+                <h2>
+                    <a itemprop="url" class='listing-result__listing' href="/4-367-pacific-highway-lindfield-nsw-2070-2011039612" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+                        <div  itemscope="" itemtype="http://schema.org/Residence">
+
+
+<meta itemprop="name" content="4/367 Pacific Highway, Lindfield NSW 2070" />
+<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <div class="listing-result__address-line-1">
+            <span itemprop="streetAddress">4/367 Pacific Highway</span>,
+        </div>
+        <div class="listing-result__address-line-2">
+            <span itemprop="addressLocality">Lindfield</span>,
+            <span itemprop="addressRegion">NSW</span>&nbsp;<span itemprop="postalCode">2070</span>
+        </div>
+</div>
+<span itemprop="geo" itemscope="" itemtype="http://schema.org/GeoCoordinates">
+    <meta itemprop="latitude" content="-33.7731476" />
+    <meta itemprop="longitude" content="151.166153" />
+</span>
+
+                        </div>
+                    </a>
+                </h2>
+
+
+
+<div class="listing-result__features">
+            <span class="listing-result__feature-bed">
+                2            <span class="listing-result__sr-only">
+                beds
+            </span>
+
+            </span>
+        <span class="listing-result__feature-bathroom">
+            1            <span class="listing-result__sr-only">
+                bathroom
+            </span>
+
+        </span>
+        <span class="listing-result__feature-parking">
+            1            <span class="listing-result__sr-only">
+                parking
+            </span>
+
+        </span>
+</div>
+
+
+            </div>
+
+            <div class="listing-result__right">
+                    <div class="listing-result__brand-wrap" style="background: #001D43">
+                        <div class="listing-result__brand">
+                            <img src="https://rim.domain.com.au/eD9ELiaaSDHDkU-X4BZGsZfpTsM=/fit-in/170x60/filters:format(jpeg):quality(90):no_upscale()/https://images.domain.com.au/img/Agencys/414/logo_414.png?date=2015-08-14-13-47-26" alt="Logo for Savills Cordeau Marshall Gordon">
+                        </div>
+                    </div>
+                <div class="listing-result__img-container">
+                    <div class="listing-result__img-border">
+                        <a itemprop="url" href="/4-367-pacific-highway-lindfield-nsw-2070-2011039612" data-gatracking="true"data-eventcategory="SearchResultsExperiment"data-eventaction="ListingOpened"data-eventlabel="Elite" property-click>
+<div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/tmjJT2GXNquntSVQnACdkwLVBws=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2011039612_1_pi_150322_094051' alt='Picture of 4/367 Pacific Highway, Lindfield' /></div><div class='listing-result__img-wrap '><img itemprop='image' src='https://rim.domain.com.au/fXhiq8RKPgz4hzN0_8VqgcOV4zg=/144x106/filters:format(jpeg):quality(90):no_upscale()/w800-h600-2011039612_2_pi_150322_094051' alt='Picture of 4/367 Pacific Highway, Lindfield' /></div>                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</li></ul>
+
+
+<nav class="t-center">
+    <ul class="pagination cfix" results-pager data-total-results="37" data-page-length="0">
+            <li class="arrow">
+                <a id="prev" data-page="1" href="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any" aria-label="previous page" class="icon domain-icon-ic_arrow-left"></a>
+            </li>
+
+
+
+                <li><a href="https://www.domain.com.au/sold-listings/?postcode=2070&amp;bedrooms=2&amp;bathrooms=1&amp;price=600000-750000&amp;carspaces=1-any" data-page="1" aria-label="page number">1</a></li>
+                <li><span aria-label="current page">2</span></li>
+
+    </ul>
+
+</nav> 
+
+            </div>
+
+          
+            <div class="card plain ad">
+                		<div id="adspot-300x25-pos-2">
+			<script type="text/javascript">
+				var titan = window.titan || {};
+				if (false) {
+					titan.requestConditionalAd = titan.requestConditionalAd || [];
+					titan.requestConditionalAd.push("adspot-300x25-pos-2");
+				} else {
+					titan.requestAd = titan.requestAd || [];
+					titan.requestAd.push("adspot-300x25-pos-2");
+				}
+			</script>
+		</div>
+
+
+            </div>
+            <div class="card plain ad google-ad">
+    <div id="divGoogleAds"></div>
+</div>
+<script src="https://www.google.com/adsense/search/ads.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var pageOptions = {
+        'pubId': 'partner-pub-2707137452631707',
+        'query': 'Moving home Sydney',
+        'channel': 'Moving-home',
+        'hl': 'en',
+        'adtest': 'off'
+    };
+
+    var adblock = {
+        'container': 'divGoogleAds',
+        'number': '3',
+        'width': '100%',
+        'colorTitleLink': '515b6d',
+        'colorDomainLink': '515b6d',
+        'longerHeadlines': true,
+        'detailedAttribution': true,
+        'lines': 2,
+        'siteLinks': true,
+        'titleBold': true,
+        'fontSizeTitle': 14,
+        'colorDomainLink': '4ba000'
+    };
+
+    new google.ads.search.Ads(pageOptions, adblock);
+</script>
+
+<script language="JavaScript">
+    /* <![CDATA[ */
+
+    var _GOOGLE_AD_ID = "googlead-afc";
+    var _GOOGLE_ADSWAP_ID = "googlead-afc-swap";
+    var _GOOGLE_TIMER_PERIOD = 200;
+    var _googlePollerId; // pointer to the polling thread
+
+    // Move the google ads content from its original place holder
+    // to the swap area.
+    function googleAdSwapPoll() {
+        var googleAdHandle = document.getElementById(_GOOGLE_AD_ID);
+        var googleAdSwapHandle = document.getElementById(_GOOGLE_ADSWAP_ID);
+
+        if (!googleAdHandle || !googleAdSwapHandle) {	// neither Google ad nor its swap DOM element exist, quitting
+            return;
+        }
+
+        var googleAdContent = googleAdHandle.innerHTML;
+
+        // swap ads
+        googleAdHandle.innerHTML = ""; // clear the content in the original google ad place holder
+        googleAdSwapHandle.innerHTML = googleAdContent; // set the google ad content to the swap place holder
+        window.clearInterval(_googlePollerId); // ad swapped, no need to poll anymore
+    }
+
+    _googlePollerId = window.setInterval('googleAdSwapPoll()', _GOOGLE_TIMER_PERIOD);
+
+    function google_ad_request_done(google_ads) {
+        /*
+         * This function is required and is used to display
+         * the ads that are returned from the JavaScript
+         * request. You should modify the document.write
+         * commands so that the HTML they write out fits
+         * with your desired ad layout.
+         */
+        var googleAds = '';
+        var i;
+
+        /*
+         * Verify that there are actually ads to display.
+         */
+        if (google_ads.length == 0) {
+            return;
+        }
+
+        /*
+         * If an image or Flash ad is returned, display that ad.
+         * Otherwise, build a string containing all of the ads and
+         * then use a document.write() command to print that string.
+         */
+
+        googleAds += '<div class="ad cA-textLinks google_afc_ad">' +
+                        '<h4><a href="http://www.fairfax.com.au/ads-by-google.html" target="_blank">Ads by Google</a></h4>';
+
+        if (google_ads[0].type == "image") {
+            googleAds += '<a href="' + google_ads[0].url +
+                  '" target="_blank" title="go to ' + google_ads[0].visible_url +
+                  '"><img border="0" src="' + google_ads[0].image_url +
+                  '"width="' + google_ads[0].image_width +
+                  '"height="' + google_ads[0].image_height + '"></a>';
+
+        } else if (google_ads[0].type == "flash") {
+            googleAds += '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+                  ' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+                  ' WIDTH="' + google_ad.image_width +
+                  '" HEIGHT="' + google_ad.image_height + '">' +
+                  '<PARAM NAME="movie" VALUE="' + google_ad.image_url + '">' +
+                  '<PARAM NAME="quality" VALUE="high">' +
+                  '<PARAM NAME="AllowScriptAccess" VALUE="never">' +
+                  '<EMBED src="' + google_ad.image_url +
+                  '" WIDTH="' + google_ad.image_width +
+                  '" HEIGHT="' + google_ad.image_height +
+                  '" TYPE="application/x-shockwave-flash"' +
+                  ' AllowScriptAccess="never" ' +
+                  ' PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>';
+
+        } else if (google_ads[0].type == "text") {
+            if (google_ads.length > 0) {
+                /*
+                 * Partners should adjust text sizes
+                 * so ads occupy the majority of ad space.
+                 *
+                 * For text ads, append each ad to the string.
+                 */
+
+                googleAds += '<ul>';
+
+                for (i = 0; i < google_ads.length; ++i) {
+                    googleAds += '<li>' +
+                                 '<a target="_blank" href="' + google_ads[i].url + '" ' +
+                                 'onmouseout="window.status=\'\'" ' +
+                                 'onmouseover="window.status=\'go to ' +
+                                 google_ads[i].visible_url + '\'">' +
+                                 '<strong>' + google_ads[i].line1 + '</strong>' +
+                                 '<span>' + google_ads[i].line2 + '&nbsp;' +
+                                    google_ads[i].line3 +
+                                 '</span>' +
+                                 '<em>' + google_ads[i].visible_url + '</em>' +
+                                 '</a>' +
+                                 '</li>';
+                }
+
+                googleAds += '</ul>';
+            }
+        }
+
+        googleAds += '</div>';
+        document.write(googleAds);
+        return;
+    }
+
+    google_ad_client = 'ca-fairfax-domain_js';
+    google_ad_channel = 'search';
+    google_ad_output = 'js';
+    google_max_num_ads = '3';
+    google_ad_type = 'text';
+    google_encoding = 'utf8';
+    google_safe = 'high';
+    google_adtest = 'off';
+
+    var url_colour = '515b6d';
+    /* //]]> */
+</script>
+<!-- "google_afc_request_done" function populates ads.-->
+<script language="JavaScript" src="https://www.google.com/adsense/search/ads.js"></script>
+            
+        </div>
+        <!-- //Main content -->
+    </div>
+
+    
+        <div class="inner-wrap search-caption">
+            Also browse through the listings <a class="search-caption__link">for  in  </a>
+            listed by <a class="search-caption__link">real estate agents in  </a>.
+
+            Domain makes it easy to find your dream home by filtering price, number of bedrooms and most importantly the property types like
+            <a class="search-caption__link">apartments/units/flats</a>, <a class="search-caption__link">houses</a>
+            and<a class="search-caption__link">new developments</a>.
+        </div>
+
+
+    <!--// scroll directive need more refactor -->
+    <back-to-top-btn active-position="1000" toggle-class="is-visible" scroll-to="#page-outer-wrap"></back-to-top-btn>
+
+</section>
+
+<script type="application/ld+json">
+    [{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"https://www.domain.com.au/","name":"Home"}},{"@type":"ListItem","position":"2","item":{"@id":"https://www.domain.com.au/sold-listings/nsw/","name":"NSW"}},{"@type":"ListItem","position":"3","item":{"@id":"https://www.domain.com.au/sold-listings/?area=north-shore-upper-nsw","name":"North Shore - Upper"}}]},{}]
+</script>
+
+
+                <footer class="footer-wrap" role="contentinfo">
+                        <div class="inner-wrap">
+                            <div class="t-center txt-sml">
+                                
+                            </div>
+                        </div>
+                    <div class="primary-wrap">
+    <div class="inner-wrap">
+        <a href="/" class="logo">
+            <img src="https://static.domain.com.au/domain/domain_logo_white_w110_h24.png" alt="Domain">
+        </a>
+        <div class="nav-left">
+            <ul role="navigation">
+                <li><a href="https://advertisers.com.au/domain" rel="nofollow">Place an ad</a></li>
+                <li><a href="http://www.domain.com.au/group/">About us</a></li>
+                <li><a href="http://www.domain.com.au/group/contact-us/">Contact us</a></li>
+                <li><a href="http://www.domain.com.au/group/career/">Careers</a></li>
+                <li><a href="/mobile">Mobile</a></li>
+                <li><a href="https://support.domain.com.au">Help</a></li>
+            </ul>
+        </div>
+        <div class="nav-right">
+            <ul role="navigation">
+                <li><a href="/group/agent-centre/">Agent centre</a></li>
+                <li><a href="https://admin.domain.com.au/" class="btn alt sml f-icon"><span class="icon domain-icon-ic_locked"></span>Agent admin</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+                    <div class="directory-wrap">
+                        <div class="inner-wrap">
+                            <h3 class="hide-visually">Domain quick links</h3>
+
+    
+        <ul class="columns cfix dynamicfooter" role="navigation">
+            <li>
+                <h4>For Sale</h4>
+                    <ul>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/apartment-unit-flat/">Apartments &amp; Units for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/pent-house/">Penthouses for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/studio/">Studios for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/duplex/">Duplexes for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/house/">Houses for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/semi-detached/">Semi detached houses for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/terrace/">Terraced houses for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/villa/">Villas for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/town-house/">Townhouses for sale in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/block-of-units/">Block of units for sale in East Lindfield</a></li>
+                    </ul>
+            </li>
+            <li>
+                <h4>For Rent</h4>
+                    <ul>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/apartment-unit-flat/">Apartments &amp; Units for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/pent-house/">Penthouses for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/studio/">Studios for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/duplex/">Duplexes for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/house/">Houses for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/semi-detached/">Semi detached houses for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/terrace/">Terraced houses for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/villa/">Villas for rent in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/rent/east-lindfield-nsw-2070/town-house/">Townhouses for rent in East Lindfield</a></li>
+                    </ul>
+            </li>
+            <li>
+                <h4>Domain</h4>
+                    <ul>
+                            <li><a href="https://www.domain.com.au/suburb-profile/east-lindfield-nsw-2070">East Lindfield Suburb Profile</a></li>
+                            <li><a href="/real-estate-agencies/east-lindfield-nsw-2070/">East Lindfield real estate agents</a></li>
+                            <li><a href="https://www.domain.com.au/property-profile">Home Price Guide</a></li>
+                            <li><a href="http://www.fairfax.com.au/privacy.html">Privacy</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/development-site/">Development Site</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/new-house-land/">House and Land package in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/new-apartments/">New &amp; Off the plan apartments in East Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/east-lindfield-nsw-2070/new-home-designs/">New Home Designs</a></li>
+                    </ul>
+            </li>
+            <li>
+                <h4>Surrounding Suburbs</h4>
+                    <ul>
+                            <li><a href="https://www.domain.com.au/sale/east-killara-nsw-2071/">East Killara</a></li>
+                            <li><a href="https://www.domain.com.au/sale/lindfield-nsw-2070/">Lindfield</a></li>
+                            <li><a href="https://www.domain.com.au/sale/roseville-nsw-2069/">Roseville</a></li>
+                            <li><a href="https://www.domain.com.au/sale/roseville-chase-nsw-2069/">Roseville Chase</a></li>
+                            <li><a href="https://www.domain.com.au/sale/beauchamp-park-nsw-2067/">Beauchamp Park</a></li>
+                            <li><a href="https://www.domain.com.au/sale/roseville-south-nsw-2067/">Roseville South</a></li>
+                    </ul>
+            </li>
+      </ul>
+
+
+                        </div>
+                    </div>
+
+<div class="secondary-wrap">
+    <div class="inner-wrap">
+        <div class="dpg">
+            <ul role="navigation">
+                <li><a href="http://www.domainrural.com.au/"><img src="/ore/assets/img/residential/logo/rural.png" alt="domain rural"></a></li>
+                <li><a href="http://www.commercialrealestate.com.au/"><img src="/ore/assets/img/residential/logo/cre.png" alt="commercial realestate"></a></li>
+            </ul>
+        </div>
+        <div class="nav-left">
+            <ul role="navigation">
+
+                <li>
+                    <h4>Partners &amp; Fairfax Network:</h4>
+                </li>
+                <li class="menu dropdown alt">
+                    <a href="javascript:;" data-toggle="dropdown-alt">PropertyGuru</a>
+                    <ul>
+                        <li>
+                            <h4 class="quicklinks-heading">Fairfax Network</h4>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.smh.com.au">SMH</a>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.theage.com.au">The Age</a>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.watoday.com.au">WA Today</a>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.canberratimes.com.au">Canberra Times</a>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.brisbanetimes.com.au">Brisbane Times</a>
+                        </li>
+                        <li>
+                            <a  target="_blank" href="http://www.fairfax.com.au/network-map.aspx">Full Network</a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="http://www.drive.com.au">Drive</a>
+                        </li>
+                        <li>
+                            <h4 class="quicklinks-heading">Partners</h4>
+                        </li>
+                        <li>
+                            <a href="http://www.propertyguru.com.sg" target="_blank" rel="nofollow">PropertyGuru.com.sg</a>
+                        </li>
+                        <li>
+                            <a href="http://www.propertyguru.com.my" target="_blank" rel="nofollow">PropertyGuru.com.my</a>
+                        </li>
+                        <li>
+                            <a href="http://www.ddproperty.com" target="_blank" rel="nofollow">ddproperty.com</a>
+                        </li>
+                        <li>
+                            <a href="http://www.rumah.com" target="_blank" rel="nofollow">rumah.com</a>
+                        </li>
+                        <li>
+                            <a href="http://www.commercialguru.com.sg" target="_blank" rel="nofollow">commercialguru.com.sg</a>
+                        </li>
+                    </ul>
+                </li>
+                
+            </ul>
+        </div>
+        <div class="nav-right">
+            <ul>
+                <li>
+                    <a class="f-icon nav-btn" href="https://www.facebook.com/domain.com.au" title="facebook">
+                        <span class="icon domain-icon-ic_social_facebook"></span>
+                        <span class="hide-visually">facebook</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="f-icon nav-btn" href="https://twitter.com/Domaincomau" title="twitter">
+                        <span class="icon domain-icon-ic_social_twitter"></span>
+                        <span class="hide-visually">twitter</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="f-icon nav-btn" href="https://plus.google.com/+domaincomau " title="google+">
+                        <span class="icon domain-icon-ic_social_g_plus"></span>
+                        <span class="hide-visually">google+</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="f-icon nav-btn" href="https://www.youtube.com/user/Domaincomau" title="video">
+                        <span class="icon domain-icon-ic_youtube"></span>
+                        <span class="hide-visually">video</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                </footer>
+        </div>
+    </div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-22518123-1']);
+_gaq.push(['_setDomainName', '.domain.com.au']);
+_gaq.push(['_setAllowAnchor', true]);
+_gaq.push(['_setAllowLinker', true]);
+
+(function () {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+(function(i, s, o, g, r, a, m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q|| []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o),m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)})(window, document, 'script', '//www.google-analytics.com/analytics.js', '_gaTracker');
+_gaTracker('create', 'UA-22518123-1', 'auto');
+_gaTracker('set','dimension1','new');
+_gaTracker('set','dimension2','Standard_listing_new');
+_gaTracker('set','dimension4','Not_logged_in');
+_gaTracker('set','dimension11','Map_search_on');
+_gaTracker('set','dimension109','Surrounding_Suburbs_Test_Off');
+_gaTracker('set','dimension10','ListView');
+_gaTracker('send', 'pageview');
+
+</script>
+    <!-- Begin Javascript assets -->
+<script src="/assets/js/DA2DC761D900D7324017085869E4958811C975B18D3F6F93C9AC5DF222C6E4A0-m/resultpage-withtracking-bundle/asset.axd" ></script>
+<script src="/assets/js/004362B1C42FC73472161B89C2F4CE95CB534482ED809493F57E9E572CAEEC5E-m/pplus-search-results/asset.axd" ></script>
+<script src="/assets/js/7DAA66CDAFBD07CF18A131A07AE817D56DE9EB8A095746DAEC4DDCFE19CF4CFF-m/listings-search-app/asset.axd" ></script>
+<script src="/assets/js/5460AD4609A19D20D3949B940FC2ABE7849A40AB437BBDDEE8F40D89DE26DE82-m/resultpage-bundle/asset.axd" ></script>
+<script src="/assets/js/32DB4813CF796BACDF4B7BF1B2CF24BE41EAAAC9965F53C1EA64402EE1D7C957-m/searchrefiner-bundle/asset.axd" ></script>
+<script src="/assets/js/7ABA9C0BF0E23FE830C4A7DDBEC3E32BDF3D4ED53479A5F0FE463CC0AAF952CC-m/common-js-bundle-bottom/asset.axd" ></script>
+<!--[if lte IE 7]><script src="/assets/js/47495858356E5A9F4EAC6B03E333FAA9F303F30F7FFA17C5B4A553135D79B6E6-m/searchsuggesttokenizerie7/asset.axd" ></script><![endif]-->
+<!--[if IE 8]><script src="/assets/js/6C6BA8910710F8FF2CADE424AF0FAC36F05171A85A24E9371489C28900DF5EFF-m/selectizeie8/asset.axd" ></script><![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+
+                $j(document).ready(function () {
+                      $j.ajax({
+                        type: 'POST',
+                        url: '/usersstats/logsearchresultstats',
+                        dataType: 'json',
+                        data: { serializedSearchParam: '' + window.dataBlobs.searchResults.SerializedSearchParameter },
+                            success: function(result) { },
+                        error: function(jqXhr, textStatus, errorThrown) {
+                                console.log('Error: Ajax get failed for users stats service, error:' + jqXhr.status + ' : ' + errorThrown);
+                            }
+                        });
+                    });//]]>
+</script>
+<!-- End Javascript assets -->
+
+
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v60.js"></script>
+<script type="text/javascript">//<!--
+    var pvar = { cid: "f2", content: "domain", server: "secure-au", cookies_enabled: false };
+    if (typeof nol_t != 'undefined'){
+    var trac = nol_t(pvar);
+    }
+    if (typeof trac != 'undefined'){
+    trac.record().post();
+    }
+//--></script>
+<noscript><div>
+<img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=f2&amp;cg=domain&amp;cc=0&amp;ts=noscript" width="1" height="1" alt="" />
+</div></noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+
+<!--Google Code for All Site Visitors
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup-->
+<script type="text/javascript">
+ /* <![CDATA[ */
+var google_conversion_id = 1064277536;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "xLitCKiNmgIQoKy--wM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<span class="hide-fully"><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script></span>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064277536/?value=0&label=xLitCKiNmgIQoKy--wM&guid=ON&script=0"/>
+</div>
+</noscript>
+
+<script type="text/javascript">
+if(typeof(_satellite)!='undefined'){ _satellite.pageBottom(); }
+</script>
+    
+    <div id="adspot-interstitial"><script>
+var titan = window.titan || {};
+titan.requestAd = titan.requestAd || [];
+titan.requestAd.push("adspot-interstitial");
+</script>
+</div>
+    <script type="application/ld+json">
+{ "@context" : "http://schema.org", "@type" : "Organization", "name" : "Domain", "url" : "http://www.domain.com.au", "sameAs" : [ "https://www.facebook.com/domain.com.au", "https://twitter.com/domaincomau", "https://plus.google.com/+domaincomau", "https://www.linkedin.com/company/domain-com-au"] }
+</script>
+
+
+    <script src="//static.criteo.net/js/ld/ld.js"></script></body>
+</html>
