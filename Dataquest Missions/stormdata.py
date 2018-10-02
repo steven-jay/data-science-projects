@@ -1,18 +1,26 @@
 import io
+import csv
 import psycopg2
 import requests
+import datetime
+#
+# conn = psycopg2.connect(dbname='postgres', user='postgres')
+# conn.autocommit = True
+# cur = conn.cursor()
+#
+# cur.execute('CREATE DATABASE storms')
 
-conn = psycopg2.connect(dbname='postgres', user='postgres')
-cur = conn.cursor()
-
-cur.execute('CREATE DATABASE storms')
+def split_time(time):
+    return({'hours':time[:2], 'minutes':time[2:4]})
 
 conn = psycopg2.connect(dbname='storms', user='postgres')
 cur = conn.cursor()
 
+cur.execute("""DROP TABLE IF EXISTS storm_data""")
+
 cur.execute("""CREATE TABLE storm_data (
                 FID INTEGER PRIMARY KEY,
-                STORM_TIME DATETIME,
+                STORM_TIME TIMESTAMP,
                 BTID INTEGER,
                 NAME TEXT,
                 LAT DECIMAL(4,1),
@@ -23,18 +31,20 @@ cur.execute("""CREATE TABLE storm_data (
                 BASIN TEXT,
                 SHAPE_LENG DECIMAL(7, 6) )""")
 
-response = request.urlopen('https://dq-content.s3.amazonaws.com/251/storm_data.csv')
-reader = csv.reader(io.TextIOWrapper(response))
+url = 'https://dq-content.s3.amazonaws.com/251/storm_data.csv'
 
-for row in reader:
-    new_row = row[0][]
+with requests.Session() as s:
+    download = s.get(url)
+    decode = download.content.decode('utf-8')
+    reader = csv.reader(decode.splitlines(), delimiter=',')
+    next(reader)
+    for storm in reader:
+        storm_update = storm[0:1] + storm[5:]
+        time = split_time(storm[4])
+        storm_time = datetime.datetime(int(storm[1]),int(storm[2]),int(storm[3]),int(time['hours']),int(time['minutes']),0)
+        storm_update.insert(1,storm_time)
+        cur.execute("INSERT INTO storm_data VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)", storm_update)
+    conn.commit()
 
-# use following code to get csv file
-#     with requests.Session() as s:
-# ...     download = s.get(url)
-# ...     decode = download.content.decode('utf-8')
-# ...     reader = csv.reader(decode.splitlines(), delimiter=',')
-# ...     mylist = list(reader)
-# ...     for row in mylist:
-# ...             print(row)
-...
+cur.execute('select * from storm_data')
+cur.fetchall()
