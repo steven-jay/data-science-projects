@@ -67,7 +67,7 @@ class BikeSalesCrawler():
                     sleep(2)
 
                     xpath_models = '//*[@class="select-menu main-search-form__dropdown model-list"]'
-                    sleep(3)
+                    sleep(5)
                     self.brands[brand] = dict.fromkeys(self.get_fields(xpath_models), None)
                     sleep(1)
                     print('Brand %s is valid' % brand)
@@ -92,16 +92,22 @@ class BikeSalesCrawler():
     def return_hyperlinks(self, brand, model):
         r = requests.get(self.search_url(brand, model), headers={'User-agent':self.user_agent.chrome})
         soup = BeautifulSoup(r.text, 'html.parser')
-        print(soup)
+        body = soup.body
+        results = body.find_all(class_='item-link-container')
+        self.brands[brand][model] = [result.get('href') for result in results]
+        self.write_to_file()
 
+
+        #get hyperlinks to each ad
 
     def get_ad_hyperlinks(self):
         for brand, models in self.brands.items():
             if brand == 'Ducati':
                 for model in models:
+                    #print('Getting links for %s %s...' % brand, model)
                     self.return_hyperlinks(brand, model)
 
-    # need to test this function
+    #probably deprecate this function
     def get_ads(self):
         for brand, models in self.brands.items():
             if brand == 'Ducati':
